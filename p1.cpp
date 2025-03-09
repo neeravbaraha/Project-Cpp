@@ -1,4 +1,4 @@
-//Create a class Student with attributes name, age, and grade. Implement a method to display student details.
+//Create a multiple object of Student with attributes name, age, and grade. Implement a method to display student details.
 
 #include<iostream>
 using namespace std;
