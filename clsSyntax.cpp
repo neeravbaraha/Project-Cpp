@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
+
+//class creation
 class studentInfo{
     public: //publicly accessible;
 string name;// declared
@@ -12,7 +14,7 @@ void displayStudentInfo(){
 };
 
 int main(){
-studentInfo student1;// student1 is declared here
+studentInfo student1;// student1 is declared here and object is created
 student1.name="Nirab";
 student1.cls=3;
 student1.depart="ComputerApplication";
